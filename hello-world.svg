@@ -1,0 +1,6 @@
+<svg width="300" height="100"  xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <path d="M 10,80 Q 50,50 90,80 Q 130,50 170,80 Q 210,50 250,80" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 20,60 Q 50,30 80,60 Q 110,30 140,60 Q 170,30 200,60 Q 230,30 260,60" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 30,40 Q 50,10 70,40 Q 90,10 110,40 Q 130,10 150,40 Q 170,10 190,40 Q 210,10 230,40 Q 250,10 270,40" fill="none" stroke="black" stroke-width="2"/>
+</svg>
+

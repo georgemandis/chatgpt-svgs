@@ -1,0 +1,9 @@
+<svg width="500" height="600"  xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect width="500" height="600" fill="rgb(255, 255, 255)"/>
+  <path d="M 250 200 Q 150 150, 250 100 Q 350 150, 250 200" fill="none" stroke="black" stroke-width="2"/>
+  <circle cx="250" cy="100" r="50" fill="rgb(255, 255, 255)" stroke="black" stroke-width="2"/>
+  <path d="M 200 130 Q 225 145, 250 130" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 300 130 Q 275 145, 250 130" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 250 200 Q 225 260, 250 325 Q 275 260, 250 200" fill="none" stroke="black" stroke-width="2"/>
+</svg>
+
